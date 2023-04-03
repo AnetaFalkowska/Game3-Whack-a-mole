@@ -1,0 +1,16 @@
+.grid {
+  height: 600px;
+  width: 600px;
+  display: flex;
+  flex-wrap: wrap
+}
+
+.card {
+  height: 198px;
+  width: 198px;
+  border: 1px solid black;
+}
+
+.mole {
+    background-image: url('Images/image.png')
+}
